@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,sanitize_filename",
+    "logging_enabled": "false",
+    "name": "sanitize_filenameSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "sanitize_filenameSmokeTest.js"
+}
